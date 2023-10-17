@@ -1,2 +1,2 @@
-def test(asd):
+def testmmm(asd):
   print(asd)
